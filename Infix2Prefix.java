@@ -1,6 +1,6 @@
 /*********************************************************************************************************************
      **
-     **  Infix to prefix conversion in C++ using stack and linked list
+     **  Infix to prefix conversion using stack in java
      **  Input Infix expression must be in a desired format. 
      **  Operands and operator, both must be single character.
      **  Only '+'  ,  '-'  , '*', '/'  operators are expected. 
